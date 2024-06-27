@@ -1,4 +1,5 @@
 # Mazegame
+1、
 This project is a MazaGAme with allows that the players to use zhe bottom on keyboard to move the pixel block and untill it arrive at the exit. That is the main introduce of our small game . 
 
 the main produce process is we write a basic frame and then use ChatGPT to optimize the frame and then give it to MetaGPT to generate the  body of the game. And we write a snake game to pricatice.
@@ -8,7 +9,7 @@ The index.html witch all we run the game on line
 The main.js is all the class we use all the  port we use and all the realize.
 the style.css is all the backgraound and other settings about collor and borders.
 
-Some question we meet:
+2、Some question we meet:
 Q1:Installing build dependencies ... error
   error: subprocess-exited-with-error
   
@@ -45,11 +46,22 @@ this problem is duto the the miss downlode of pip and other problem and we reins
 Q2 is to coreact the codes like some code like coller set or border set and so an. thers are also some problem when we run the web page some request a new operating ervironment and we need to  downlode.
 
 
-here are our web page:
+3、here are our web page:
 ![image](https://github.com/Bistu-OSSDT-2024/11-project-one/assets/164650160/b039ef87-fd4d-455f-9976-a7a2f79bb432)
 ![image](https://github.com/Bistu-OSSDT-2024/11-project-one/assets/164650160/63351385-611b-4068-bde6-b81ce4285b1b)
 
+4、contributer
+邱梦楠 2023011275 软工2301
+王之懿 2023011360 大数据2301
+张灿   2023011463 计类实验2302
+窦茂川 2023011446 计类实验2302
+张怡珊 2023011525 网工2302
 
+5、some basic question
+（1）、it's to downlode npm and python>=3.9
+（2）、if you meet problem with generate please use english
+ (3)、 if meet other problem please send email or issue
 
+6、
 
 
